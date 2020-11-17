@@ -20,11 +20,11 @@ def game():
         win = 1
     return switch, win
 
-for N in n_arr:
-    print("N =", N)
+for n in n_arr:
+    print("N =", n)
     switch_arr = np.empty((0))
     stay_arr = np.empty((0))
-    for i in range(N):
+    for i in range(n):
         switch, win = game()
         if switch == True: 
             switch_arr = np.append(switch_arr, win)
