@@ -1,5 +1,8 @@
 # Monty Hall problem
-## The Monty Hall game
+## Background
+The Monty Hall game presents the player with three doors, behind one of which is the prize. The host knows which one this is, and the player does not. The player has to choose one door, and then the host will open another door that does not have the prize. Finally, the player has to choose whether to switch their original door choice with the remaining unopened door.
+
+The Monty Hall problem asks whether the player has a higher chance of winning if they switch doors.
 
 ## The probabilities
 Below is a tree diagram to demonstrate the probability of winning if the contestant switches door choice.
