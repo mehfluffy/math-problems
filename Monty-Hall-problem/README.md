@@ -7,7 +7,7 @@ The Monty Hall problem asks whether the player has a higher chance of winning if
 ## The probabilities
 Below is a tree diagram to demonstrate the probability of winning if the contestant switches door choice.
 
-![](https://github.com/mehfluffy/Monty-Hall-problem/blob/main/tree_switch.svg)
+![](https://github.com/mehfluffy/math-problems/blob/main/Monty-Hall-problem/tree_switch.svg)
 
 We can also count the probability of "winning by switching" by listing all possibilities in a table instead:
 
