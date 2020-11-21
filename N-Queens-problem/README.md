@@ -8,3 +8,4 @@ An elitist genetic algorithm is used to solve this problem, keeping two elites e
 
 After a no-conflict configuration is found, or the generations run out, the time used is printed.
 It is found that the genetic algorithm is much faster than another solution using hill climbing, but is a little slower than one using simulated annealing.
+![](https://raw.githubusercontent.com/mehfluffy/math-problems/main/N-Queens-problem/index.png)
