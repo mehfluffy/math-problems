@@ -1,3 +1,7 @@
+#!/usr/bin/python
+
+import numpy as np
+
 n_arr = np.logspace(1, 4, 4, dtype=np.int32)
 
 def game():
